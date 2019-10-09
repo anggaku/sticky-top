@@ -1,0 +1,17 @@
+/*
+  Main stylesheet for Rosy Florist Website
+*/
+
+// All of Bootstrap Component
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+// Set Color Used in the Rosy Florist
+@import 'variables.scss';
+// Layouts in the Rosy Florist
+@import 'navbar.scss';
+@import 'header.scss';
+@import 'sections.scss';
+@import 'footer.scss';
+// Base of the Rosy Florist Website like a margin padding dll
+@import 'base.scss';
+// Set components used like Button, Link dll
+@import 'components.scss';
